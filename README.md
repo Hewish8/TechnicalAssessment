@@ -3,8 +3,8 @@
 
 ### 1. First Create a Main Folder and Add all the codes above.
 ### 2. Inside the main folder
-  i) Create a folder 'Data_Files' and add all the csv reports.
-  ii)Create a folder 'Generated' to outtput all the generated files
+  -i) Create a folder 'Data_Files' and add all the csv reports.
+  -ii)Create a folder 'Generated' to output all the generated files
 ### 3. Run the file Rename_files.py: The csv reports do not have standard names. This code will rename all of them as the year of the report by extracting the year from the name.
 ### 4. Question 1:-Run the file create_database.py 
   -This will create the MySQL database World_Happiness_report. 
