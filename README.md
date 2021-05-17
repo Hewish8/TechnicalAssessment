@@ -31,4 +31,4 @@
   - Firstly, the columns CapitalCity, Latitude and Longitude will be added to the the table country_info in the database
   - Then the api will be read, required data extracted and logged to the table country_info.
  
-![alt text] (https://github.com/Hewish8/TechnicalAssessment/blob/main/2016.png)
+![plot](https://github.com/Hewish8/TechnicalAssessment/blob/main/2016.png)
