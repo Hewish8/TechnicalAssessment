@@ -17,7 +17,7 @@
 ### 6. Question 3: Before running the file modelling_record.py:
   - Assuming the data scientist wants to generate the modelling record for a particular Country and year; go to line 163 in the script and change the year and Country name in the function log_to_csv(Year, "Country Name") to desired one. The default here is log_to_csv(2018, "Norway")
   - Run the file modelling_record.py
-  - The files record_model.csv and parquet_record_model will be generated for the chosen country and year.
+  - The files record_model.csv and parquet_record_model.parquet will be generated for the chosen country and year.
 ### 7.Question 4: Before running the file find_ranks_score.py
   - Assuming the data scientist wants to generate the JSOn file for a particular Country; Go to line 104 in the script and change the Country name in the function find_ranks_score("Country Name") to the desired one. The default here is find_ranks_score("Germany").
   - Run the file find_ranks_score.py
