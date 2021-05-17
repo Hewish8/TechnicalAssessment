@@ -26,7 +26,8 @@
   - Four Dashboards will be generated for each year 2016 to 2019 each showing a World Map. 
   - When the cursor is hovered over a country, the Happiness Score, Happiness Status and Country Name is displayed. 
   - A Score color bar is also included.
-![plot](https://github.com/Hewish8/TechnicalAssessment/blob/main/2016.png) ![plot](https://github.com/Hewish8/TechnicalAssessment/blob/main/2017.png)
+  - Sample for 2016 is shown below. However to make dynamic, run the script
+![plot](https://github.com/Hewish8/TechnicalAssessment/blob/main/2016.png) 
   
 ### 9. Question 6: Run the file consume_api.py
   - Firstly, the columns CapitalCity, Latitude and Longitude will be added to the the table country_info in the database
