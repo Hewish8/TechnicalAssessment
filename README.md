@@ -8,9 +8,9 @@
 ### 3. Run the file Rename_files.py: 
   -The csv reports do not have standard names. This code will rename all of them as the year of the report by extracting the year from the name.
 ### 4. Question 1:-Run the file create_database.py 
-  -This will create the MySQL database World_Happiness_report. 
-  -It will also create tables with headers similar to the ones in the csv reports, taking into account change in report headers name after year 2017
-  -It will also create a table with headers as the keys of the json file provided
+  - This will create the MySQL database World_Happiness_report. 
+  - It will also create tables with headers similar to the ones in the csv reports, taking into account change in report headers' names after year 2017
+  - It will also create a table with headers as the keys of the json file provided
 ### 5. Question 2:- Run the file automated_data_pipeline.py:
   - This will extract all records from the csv files and load them to appropriate tables
   - The Json data will also be loaded in the table country_info.
