@@ -34,7 +34,7 @@ The zipped data file contains all the codes created and files generated from the
   - Run the file find_ranks_score.py
   - The required extract will be generated in JSON format and saved in the folder Generated as consume_CountryName.json
 ### 8.Question 5:Run the file Dashboard.py
-  - Four Dashboards will be generated for each year 2016 to 2019 each showing a World Map. 
+  - Dashboards will be generated for each year 2016 to 2019 each showing a World Map. 
   - When the cursor is hovered over a country, the Happiness Score, Happiness Status and Country Name is displayed. 
   - A Score color bar is also included.
   - Sample for 2016 is shown below. However to make dynamic, run the script
