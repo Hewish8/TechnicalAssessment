@@ -3,7 +3,7 @@
 
 System Requirements:
 - Python 3.8
-- Libraries(pip install:
+- Libraries(pip install):
   - mysql.connector
   - json
   - pandas/pyarrow/fastparquet
