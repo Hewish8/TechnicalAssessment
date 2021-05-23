@@ -1,6 +1,16 @@
 # TechnicalAssessment
 ## MCB Software Engineer Data Practical Test
 
+System Requirements:
+- Python 3.8
+- Libraries(pip install:
+  - mysql.connector
+  - json
+  - pandas/pyarrow/fastparquet
+  - ElementTree
+  - plotly
+The zipped data file contains all the codes created and files generated from them.
+
 ### 1. First Create a Main Folder and Add all the codes above.
 ### 2. Inside the main folder
   -i) Create a folder 'Data_Files' and add all the csv reports.
